@@ -1,4 +1,4 @@
-# Hotel_Cancellation_Prediction
+# Forecasting Hotel Reservation Cancellations 
 ## Objective: 
 To develop a classification model for predicting the likelihood of cancellation of booked hotel rooms.
 ## Approach: 
